@@ -14,8 +14,6 @@ In the project directory, you can run:
 
 to build project into build folder
 
-![alt react](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)
+![alt react](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png | width=100)
 
-![alt webpack](https://raw.githubusercontent.com/webpack/media/master/logo/icon.png)
-
-img[alt=react] { width: 200px; }
+![alt webpack](https://raw.githubusercontent.com/webpack/media/master/logo/icon.png | width=100 )
